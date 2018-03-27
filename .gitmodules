@@ -1,0 +1,12 @@
+[submodule "themes/hugo-theme-foundation6-blog"]
+	path = themes/hugo-theme-foundation6-blog
+	url = https://github.com/htko89/hugo-theme-foundation6-blog.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/hucore"]
+	path = themes/hucore
+	url = https://github.com/mgjohansen/hucore.git
+[submodule "themes/mainroad"]
+	path = themes/mainroad
+	url = https://github.com/vimux/mainroad

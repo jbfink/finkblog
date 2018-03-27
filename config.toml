@@ -1,0 +1,7 @@
+baseURL = "http://jbfink.github.io"
+languageCode = "en-us"
+title = "finkblog"
+theme = "mainroad"
+
+[Params.widgets]
+recent_articles = true
